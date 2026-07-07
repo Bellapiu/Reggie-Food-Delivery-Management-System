@@ -25,7 +25,7 @@ D:\学习\Spring Boot\瑞吉外卖管理、用户端\lys01\README.md
 - **用户端**: 原生 HTML/CSS/JavaScript
 
 ## 📁 项目结构
-
+```text
 src/main/java/com/example/lys01/
 ├── Lys01Application.java              # 启动类
 ├── Result/                            # 统一返回结果封装
@@ -76,6 +76,7 @@ src/main/java/com/example/lys01/
 │   └── UserMapper.java
 └── service/                           # 服务层接口
 └── impl/                          # 服务层实现 (建议将 imp 改为 impl)
+```
 ## 🚀 功能模块
 
 ### 管理端功能
